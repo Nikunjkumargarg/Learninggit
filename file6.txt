@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ahasdlfasjECHO is on.
+=======
+ECHO is on.
+asdfadsfasd
+>>>>>>> refs/remotes/origin/master
